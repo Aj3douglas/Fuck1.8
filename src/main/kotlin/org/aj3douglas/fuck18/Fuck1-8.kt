@@ -7,6 +7,7 @@ import java.lang.RuntimeException
 
 class `Fuck1-8`: JavaPlugin() {
     override fun onEnable() {
+        println("Starting up 'Fuck 1.8'")
         if(server.version.contains("1.8")){
             repeat(10){
                 try{
