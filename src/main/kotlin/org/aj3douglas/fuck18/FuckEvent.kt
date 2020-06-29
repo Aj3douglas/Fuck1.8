@@ -9,12 +9,12 @@ import org.bukkit.event.HandlerList
  * This event is not cancellable, and will shut down the server.
  */
 class FuckEvent(val version:String): Event(){
-    companion object{
-        val  handlers = HandlerList()
-    }
 
     override fun getHandlers(): HandlerList {
         return handlers
+    }
+    companion object{
+        val  handlers = HandlerList()
     }
 
 }

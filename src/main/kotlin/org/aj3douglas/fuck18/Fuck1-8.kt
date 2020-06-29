@@ -10,7 +10,7 @@ class `Fuck1-8`: JavaPlugin() {
         if(server.version.contains("1.8")){
             repeat(10){
                 try{
-                    throw RuntimeException("Get on the right version")
+                    throw RuntimeException("Get on the right version cunt")
                 }catch (exc:Exception){
                     exc.printStackTrace()
                 }
