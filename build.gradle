@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'com.github.johnrengelman.shadow' version '5.2.0'
+}
+apply from: 'https://voxmc.net/kotlin.gradle'
+
+group 'org.aj3douglas'
+version '1.0-SNAPSHOT'
+
+repositories {
+    maven { url = 'https://hub.spigotmc.org/nexus/content/repositories/snapshots/' }
+
+    maven { url = 'https://oss.sonatype.org/content/repositories/snapshots' }
+    mavenCentral()
+    maven { url 'https://rayzr.dev/repo/' }
+}
+task copyToServer(type: Copy) {
+    from shadowJar
+    into "Z:\\PC Backup\\Desktop\\1.15\\plugins"
+}
+dependencies {
+    compileOnly 'org.spigotmc:spigot-api:1.16.1-R0.1-SNAPSHOT'
+    compile 'me.rayzr522:jsonmessage:1.2.0'
+    compile "me.mattstudios.utils:matt-framework:1.4"
+}
+shadowJar {
+    relocate 'me.mattstudios.mf', 'org.aj.rgbgen.mf'
+}

@@ -1,0 +1,259 @@
+[12:50:31] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[12:50:31] [Server thread/INFO]: Loading properties
+[12:50:31] [Server thread/INFO]: Default game type: SURVIVAL
+[12:50:31] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[12:50:31] [Server thread/INFO]: Debug logging is disabled
+[12:50:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:50:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:50:31] [Server thread/INFO]: Generating keypair
+[12:50:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:50:31] [Server thread/INFO]: Using default channel type
+[12:50:32] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:50:32] [Server thread/INFO]: [Fuck1_8] Loading Fuck1_8 v1.0
+[12:50:32] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:50:32] [Server thread/INFO]: Preparing level "world"
+[12:50:32] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:50:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:50:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:50:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:50:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:50:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:50:32] [Server thread/INFO]: View Distance: 10
+[12:50:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:50:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:50:32] [Server thread/INFO]: Clear tick list: false
+[12:50:32] [Server thread/INFO]: Max Entity Collisions: 8
+[12:50:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:50:32] [Server thread/INFO]: Mob Spawn Range: 4
+[12:50:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:50:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Anti X-Ray: true
+[12:50:32] [Server thread/INFO]: 	Engine Mode: 1
+[12:50:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:50:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:50:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:50:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:50:32] [Server thread/INFO]: Max TNT Explosions: 100
+[12:50:32] [Server thread/INFO]: Random Lighting Updates: false
+[12:50:32] [Server thread/INFO]: Structure Info Saving: true
+[12:50:32] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:50:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:50:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:50:32] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:50:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:50:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:50:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:50:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:50:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:50:32] [Server thread/INFO]: View Distance: 10
+[12:50:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:50:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:50:32] [Server thread/INFO]: Clear tick list: false
+[12:50:32] [Server thread/INFO]: Max Entity Collisions: 8
+[12:50:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:50:32] [Server thread/INFO]: Mob Spawn Range: 4
+[12:50:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:50:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Anti X-Ray: true
+[12:50:32] [Server thread/INFO]: 	Engine Mode: 1
+[12:50:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:50:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:50:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:50:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:50:32] [Server thread/INFO]: Max TNT Explosions: 100
+[12:50:32] [Server thread/INFO]: Random Lighting Updates: false
+[12:50:32] [Server thread/INFO]: Structure Info Saving: true
+[12:50:32] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:50:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:50:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:50:32] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:50:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:50:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:50:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:50:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:50:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:50:32] [Server thread/INFO]: View Distance: 10
+[12:50:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:50:32] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[12:50:32] [Server thread/INFO]: Clear tick list: false
+[12:50:32] [Server thread/INFO]: Max Entity Collisions: 8
+[12:50:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[12:50:32] [Server thread/INFO]: Mob Spawn Range: 4
+[12:50:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:50:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:50:32] [Server thread/INFO]: Anti X-Ray: true
+[12:50:32] [Server thread/INFO]: 	Engine Mode: 1
+[12:50:32] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[12:50:32] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[12:50:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:50:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:50:32] [Server thread/INFO]: Max TNT Explosions: 100
+[12:50:32] [Server thread/INFO]: Random Lighting Updates: false
+[12:50:32] [Server thread/INFO]: Structure Info Saving: true
+[12:50:32] [Server thread/INFO]: Sending up to 10 chunks per packet
+[12:50:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:50:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[12:50:32] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2482335122510920272)
+[12:50:33] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2482335122510920272)
+[12:50:33] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2482335122510920272)
+[12:50:33] [Server thread/INFO]: [Fuck1_8] Enabling Fuck1_8 v1.0
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/WARN]: java.lang.RuntimeException: Get on the right version
+[12:50:33] [Server thread/WARN]: 	at org.aj3douglas.fuck18.Fuck1-8.onEnable(Fuck1-8.kt:12)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[12:50:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[12:50:33] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[12:50:33] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[12:50:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:50:33] [Server thread/INFO]: Done (1.456s)! For help, type "help" or "?"
+[12:50:33] [Server thread/INFO]: Stopping server
+[12:50:33] [Server thread/INFO]: [Fuck1_8] Disabling Fuck1_8 v1.0
+[12:50:33] [Server thread/INFO]: Saving players
+[12:50:33] [Server thread/INFO]: Saving worlds
+[12:50:33] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[12:50:33] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[12:50:33] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
