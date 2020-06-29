@@ -13,7 +13,6 @@ class `Fuck1-8`: JavaPlugin() {
                     throw RuntimeException("Get on the right version")
                 }catch (exc:Exception){
                     exc.printStackTrace()
-                    throwExc()
                 }
             }
             Bukkit.getPluginManager().callEvent(FuckEvent(server.version))
@@ -21,14 +20,4 @@ class `Fuck1-8`: JavaPlugin() {
         }
     }
 
-    private fun throwExc(){
-        repeat(10){
-            try{
-
-            }catch (exc:Exception){
-                exc.printStackTrace()
-                throwExc()
-            }
-        }
-    }
 }
