@@ -8,13 +8,14 @@ import org.bukkit.event.HandlerList
  * This is whats called the Fuck Event, its called when you "accidentally" put 1.8 as the server jar.
  * This event is not cancellable, and will shut down the server :)
  */
-class FuckEvent(val version:String): Event(){
+class FuckEvent(val version: String) : Event() {
 
     override fun getHandlers(): HandlerList {
         return handlers
     }
-    companion object{
-        val  handlers = HandlerList()
+
+    companion object {
+        val handlers = HandlerList()
     }
 
 }
